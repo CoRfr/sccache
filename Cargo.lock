@@ -839,7 +839,7 @@ dependencies = [
 [[package]]
 name = "redis"
 version = "0.8.1"
-source = "git+https://github.com/CoRfr/redis-rs#1d79366d8b423dc63f24dcb54f712c89ec6860b7"
+source = "git+https://github.com/CoRfr/redis-rs#722ae024d073d726db449a10e78a92378a26ae91"
 dependencies = [
  "sha1 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "url 1.6.0 (registry+https://github.com/rust-lang/crates.io-index)",
